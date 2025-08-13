@@ -1,0 +1,21 @@
+{
+  "host": "127.0.0.2",
+  "port": 8081,
+  "printer_name": "",
+  "input_encoding": "cp1251",
+  "cors_allowed_origins": [
+    "http://127.0.0.2",
+    "http://localhost"
+  ],
+   "cors_allowed_origins": ["https://octozippy.xyz"],
+   "cors_allow_credentials": true ,
+   "label": {
+    "size_w_mm": 40,
+    "size_h_mm": 25,
+    "gap_mm": 2,
+    "density": 8,
+    "speed": 4,
+    "font_size": 26,
+    "left_padding": 10
+  }
+}
